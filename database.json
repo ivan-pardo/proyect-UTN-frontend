@@ -1,0 +1,34 @@
+[
+    {
+        "nombre": "Ladrillo Yoga Brick Pilates Mat",
+        "precio": 3966,
+        "marca": "Fitnesas",
+        "modelo": "INDYOG",
+        "descripción": "Bloque de goma eva maciza de alta densidad. Ideal para estiramientos, propiocepción y rehabilitación",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_2X_978485-MLA44050578603_112020-F.webp"
+    },
+    {
+        "nombre": "Tiraband Banda Elástica Látex Plana Fitness Yoga",
+        "precio": 2390,
+        "marca": "DeporAr",
+        "modelo": "Plana",
+        "descripción": "Cinta de Látex de alta resistencia de 120cm x 10cm",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_2X_821702-MLA31085096016_062019-F.webp"
+    },
+    {
+        "nombre": "Yoga Mat Colchoneta 6mm Pvc 183cm X 61cm",
+        "precio": 3699,
+        "marca": "2M Sports",
+        "modelo": "YM006.PVC-VI",
+        "descripción": "Colchoneta plegable - Aislamiento térmico - Enrollable - Transportable - Antideslizante",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_2X_735725-MLA48914106046_012022-F.webp"
+    },
+    {
+        "nombre": "Ladrillo Yoga Brick Pilates Mat Streching Fitness Reformer",
+        "precio": 4265,
+        "marca": "Hygge",
+        "modelo": "Rolo 33",
+        "descripción": "Rodillo diseñado para la liberación miofascial de las diferentes partes del cuerpo",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_2X_731974-MLA50864372680_072022-F.webp"
+    }
+]
